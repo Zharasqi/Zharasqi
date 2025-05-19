@@ -1,3 +1,4 @@
+new conflict line for test in github
 my new file  for git bash
 test new line for text
 i like basketball and play game battle of tanks 
