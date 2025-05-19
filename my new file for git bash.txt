@@ -1,3 +1,5 @@
 my new file  for git bash
 test new line for text
 i like basketball and play game battle of tanks 
+add new line written in github
+i am hard-work 
