@@ -1,2 +1,3 @@
 new file stepic format json
-{name = "Zharas"}
+{"name" = "Zharas"
+    "retest continue work" = "Never give up"}
