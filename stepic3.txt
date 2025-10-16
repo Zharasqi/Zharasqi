@@ -1,2 +1,2 @@
 new file spepic for tests
-
+Add new line text from the terminal
