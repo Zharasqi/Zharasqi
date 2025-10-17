@@ -4,3 +4,4 @@ conflict line
 test line
 testing line
 
+delete line
