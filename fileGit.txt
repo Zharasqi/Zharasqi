@@ -7,4 +7,5 @@ git GitHub old branch by bugFix/stepic3.txt
 Next line for old branch
 new text and new branch
 git GitHub
-
+new text and new branch
+git GitHub
