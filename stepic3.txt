@@ -3,5 +3,4 @@ Add new line text from the terminal
 conflict line 
 test line
 testing line
-
-delete line
+modern test line
