@@ -4,5 +4,7 @@ New Git line for fileGit.txt
 new text and new branch
 git GitHub
 git GitHub old branch by bugFix/stepic3.txt
-
+Next line for old branch
+new text and new branch
+git GitHub
 
