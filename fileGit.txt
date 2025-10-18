@@ -7,6 +7,9 @@ git GitHub old branch by bugFix/stepic3.txt
 Next line for old branch
 new text and new branch
 git GitHub
+<<<<<<< HEAD
 new text and new branch
 git GitHub
+=======
+>>>>>>> d8e134b (conflict branch)
 
