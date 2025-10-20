@@ -22,12 +22,12 @@
 />
 
 
-⚡ QA Engineer | Manual + Automation
-🎯 Manual Testing: Web, Mobile, Desktop
-📚 Currently learning: Python + Selenium for test automation
-📁 Portfolio below: test cases, bug reports, and checklists
-🤝 Looking for a project that values product quality and strong teamwork
-💡 Open to a test task!
+⚡ QA Engineer | Manual + Automation   
+🎯 Manual Testing: Web, Mobile, Desktop   
+📚 Currently learning: Python + Selenium for test automation   
+📁 Portfolio below: test cases, bug reports, and checklists   
+🤝 Looking for a project that values product quality and strong teamwork   
+💡 Open to a test task!   
 
 
 
