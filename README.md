@@ -92,11 +92,11 @@
         <sub><b>Android Studio</b></sub>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="80" height="80" alt="Xcode"/><br>
-        <sub><b>Xcode</b></sub>
+        <img src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/sql.png" width="80" height="80" alt="Xcode"/><br>
+        <sub><b>SQL</b></sub>
       </td>
       <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80" alt="VS Code"/><br>
+  <img src="https://cdn.simpleicons.org/googlechrome/000000" width="80" height="80" alt="VS Code"/><br>
   <sub><b>Dev Tools</b></sub>
 </td>
     </tr>
