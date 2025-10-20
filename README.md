@@ -19,7 +19,7 @@
   src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif"
   width="400px"
   style="max-width: 100%; display: inline-block; border-radius: 12px; margin-left: 20px; margin-bottom: 10px;"
-/>
+/>   
 
 
 ⚡ QA Engineer | Manual + Automation   
