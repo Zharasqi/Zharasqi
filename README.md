@@ -13,17 +13,13 @@
 ## About Me <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"/>
 
 
-Текст сверху
-
 <!-- GIF справа -->
 <img 
   align="right" 
   alt="Coding" 
   src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif"
-  width="300px"
+  width="400px"
 />
-
-Текст снизу
 
 
 
