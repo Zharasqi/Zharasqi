@@ -13,11 +13,18 @@
 ## About Me <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"/>
 
 
-<img align="right" alt="Coding" 
-     src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif" 
-     style="max-width: 300px; display: inline-block; margin-top: -12px;" 
-     data-target="animated-image.originalImage"
+Текст сверху
+
+<!-- GIF справа -->
+<img 
+  align="right" 
+  alt="Coding" 
+  src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif"
+  width="300px"
 />
+
+Текст снизу
+
 
 
 ⚡ QA Engineer | Manual + Automation.  
