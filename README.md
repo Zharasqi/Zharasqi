@@ -12,30 +12,25 @@
 
 ## About Me <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"/>
 
-<img 
-  align="right" 
-  alt="Coding" 
-  src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif"
-  width="400px"
-  style="max-width: 100%; display: inline-block; border-radius: 12px; margin-left: 20px; margin-bottom: px;"
-/>   
+
+<img align="right" alt="Coding" 
+     src="https://raw.githubusercontent.com/Zharasqi/Zharas-Talgatuly/main/assets/young_coder.gif" 
+     style="max-width: 300px; display: inline-block; margin-top: -12px;" 
+     data-target="animated-image.originalImage"
+/>
 
 
- 
-
-
-⚡ QA Engineer | Manual + Automation   
-🎯 Manual Testing: Web, Mobile, Desktop   
-📚 Currently learning: Python + Selenium for test automation   
-📁 Portfolio below: test cases, bug reports, and checklists   
-🤝 Looking for a project that values product quality and strong teamwork   
-💡 Open to a test task!   
+⚡ QA Engineer | Manual + Automation.  
+🎯 Manual Testing: Web, Mobile, Desktop.  
+📚 Currently learning: Python + Selenium for test automation.   
+📁 Portfolio below: test cases, bug reports, and checklists.  
+🤝 Looking for a project that values product quality and strong teamwork.  
+💡 Open to a test task!     
 
 
 
-
-
-<p align="center">
+   
+<p align="left">
   <a href="https://www.linkedin.com/in/zharas-talgatuly-278870210/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -46,7 +41,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23800080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p> 
-           
+            
 <h2 class="heading-element" dir="auto">⚙️ Languages and Tools</h2>
 <p align="center">
   <table align="center">
